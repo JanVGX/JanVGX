@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanVGX
 - 📝 I'm 14 Years Old
-- 🌱 I can code with HTML and Node.ja
+- 🌱 I can code with HTML and Node.js
 - 👥 Me and my friend make new Codes for you
 - 🌐 I live in Germany
 

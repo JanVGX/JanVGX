@@ -1,10 +1,10 @@
 ## Hi I'm JanVGX <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm JanVGX, a small Developer and Content Creator on [Youtube](https://youtube.com/GhostCoding). I Spend most of time coding outstanding projects or recording tutorials.
+I'm JanVGX, a small Developer and Content Creator on [Youtube](https://youtube.com/channel/UC-4WpktTy6NKgtpBbZW2rYQ). I Spend most of time coding outstanding projects or recording tutorials.
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-Ghost-Coding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/GhostCoding)
+[![Mail Badge](https://img.shields.io/badge/-Ghost-Coding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UC-4WpktTy6NKgtpBbZW2rYQ)
 
 <!-- TODO: Add last video link -->
 

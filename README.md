@@ -4,7 +4,7 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-Ghost Coding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/GhostCoding)
+[![Mail Badge](https://img.shields.io/badge/-Ghost-Coding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/Ghost Coding)
 
 <!-- TODO: Add last video link -->
 
@@ -63,7 +63,7 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 <summary>
   More stuff about me
 </summary>
-
+a
 <br >
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!

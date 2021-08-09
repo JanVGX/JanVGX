@@ -50,11 +50,6 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 <br />
 <br />
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
-
-
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)

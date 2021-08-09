@@ -4,7 +4,7 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-Ghost-Coding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/Ghost Coding)
+[![Mail Badge](https://img.shields.io/badge/-Ghost-Coding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/GhostCoding)
 
 <!-- TODO: Add last video link -->
 

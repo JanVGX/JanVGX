@@ -28,7 +28,7 @@ I'm JanVGX, a small Developer and Content Creator on Youtube. I Spend most of ti
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=janvgx.janvgx)
 
 
 #### Coding Stats
